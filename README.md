@@ -6,6 +6,12 @@
 - 🌱 I’m currently learning advanced LLM fine-tuning.
 - 👯 I’m currently exploring multi-agent systems and cloud native AI scaling.
 
+### ⚡ Technologies I use
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+</p>
 
 <!--
 **hrshtjn/hrshtjn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
